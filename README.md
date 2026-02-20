@@ -46,7 +46,7 @@ python scraper.py --pages 100
 
 ### Data will look like this 
 
-![Sheets preview](images/sheets.png "Sheets")
+![Sheets preview](images/sheet.png "Sheets")
 
 ## Configuration 
 
