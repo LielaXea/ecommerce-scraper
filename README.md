@@ -8,7 +8,7 @@ Web scraper for extracting product data from e-commerce websites.
 - **Pretty robust**: has some error handling, retry logic and rate limiting
 - **Pretty clean**: Validates and formats data
 - **Excel**: exports to Excel
-- **A bit configuragle**: Can change some stuff (i.e page numbers, filename and concurrent requests) with command line args
+- **A bit configurable**: Can change some stuff (i.e page numbers, filename and concurrent requests) with command line args
 
 ## Requirements
 
